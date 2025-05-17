@@ -9,19 +9,11 @@
             <i class="bi bi-list"></i>
           </a>
         </li>
-        <li class="nav-item d-none d-md-block"><a href="#" class="nav-link">Home</a></li>
-        <li class="nav-item d-none d-md-block"><a href="#" class="nav-link">Contact</a></li>
+        <li class="nav-item d-none d-md-block"><a href="#" class="nav-link">Dashboard</a></li>
       </ul>
       <!--end::Start Navbar Links-->
       <!--begin::End Navbar Links-->
       <ul class="navbar-nav ms-auto">
-        <!--begin::Navbar Search-->
-        <li class="nav-item">
-          <a class="nav-link" data-widget="navbar-search" href="#" role="button">
-            <i class="bi bi-search"></i>
-          </a>
-        </li>
-        <!--end::Navbar Search-->
         <!--begin::Messages Dropdown Menu-->
         <li class="nav-item dropdown">
           <a class="nav-link" data-bs-toggle="dropdown" href="#">
@@ -155,7 +147,7 @@
               class="user-image rounded-circle shadow"
               alt="User Image"
             />
-            <span class="d-none d-md-inline">Alexander Pierce</span>
+            <span class="d-none d-md-inline">Sysadmin</span>
           </a>
           <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-end">
             <!--begin::User Image-->
@@ -166,21 +158,13 @@
                 alt="User Image"
               />
               <p>
-                Alexander Pierce - Web Developer
-                <small>Member since Nov. 2023</small>
+                Sysadmin - KDP Dashboard
+                <small>Member since begining</small>
               </p>
             </li>
             <!--end::User Image-->
             <!--begin::Menu Body-->
-            <li class="user-body">
-              <!--begin::Row-->
-              <div class="row">
-                <div class="col-4 text-center"><a href="#">Followers</a></div>
-                <div class="col-4 text-center"><a href="#">Sales</a></div>
-                <div class="col-4 text-center"><a href="#">Friends</a></div>
-              </div>
-              <!--end::Row-->
-            </li>
+            
             <!--end::Menu Body-->
             <!--begin::Menu Footer-->
             <li class="user-footer">

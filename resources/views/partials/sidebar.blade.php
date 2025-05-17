@@ -28,13 +28,10 @@
           role="menu"
           data-accordion="false"
         >
-          <li class="nav-item menu-open">
-            <a href="#" class="nav-link active">
+          <li class="nav-item">
+            <a href="./docs/introduction.html" class="nav-link">
               <i class="nav-icon bi bi-speedometer"></i>
-              <p>
-                Dashboard
-                <i class="nav-arrow bi bi-chevron-right"></i>
-              </p>
+              <p>Dashboard</p>
             </a>
           </li>
         </ul>
